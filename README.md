@@ -48,6 +48,7 @@ Currently, I’m working on some exciting projects, but they aren't publicly ava
 
 ![Kavy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavysharma&show_icons=true&count_private=true&theme=blue&hide_title=true&include_all_commits=true)
 
+
 ---
 
 ## 📫 Connect With Me
