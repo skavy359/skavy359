@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=gradient&width=435&lines=Hi,+I'm+Kavy+Sharma!;Web+Developer+%26+Tech+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=gradient&width=435&lines=Hi,+I'm+Kavy+Sharma!;Web+Developer+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG"/>
 </a>
+
 
 <div>
     <img src="./assets/about_kavy.gif" alt="About Me Terminal GIF"/>
