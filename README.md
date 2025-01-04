@@ -6,13 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **web developer** and **programmer** with expertise in:
-- **Languages:** C, Java, C++, Python
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express
-- **Back-end Technologies:** MongoDB, MySQL, Django
-- **Other Skills:** Data Structures, Algorithms, APIs, Git, Problem Solving
-
-I enjoy building intuitive and responsive websites and solving complex problems with efficient, optimized code.
+I'm a passionate **web developer** and **programmer**. I love building intuitive, responsive websites and solving complex problems with optimized, efficient code. Constantly learning new technologies and improving my problem-solving skills.
 
 ---
 
