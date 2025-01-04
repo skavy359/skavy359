@@ -33,11 +33,14 @@ I'm a passionate **web developer** and **programmer**. I love building intuitive
 
 Currently, I’m working on some exciting projects, but they aren't publicly available yet. Stay tuned for updates soon!
 
-However, I have repositories where I actively solve problems on competitive platforms:
-- [Leetcode Problems](https://github.com/kavysharma/leetcode-problems)
-- [GeeksforGeeks Problems](https://github.com/kavysharma/geeksforgeeks-problems)
-- [Codeforces Problems](https://github.com/kavysharma/codeforces-problems)
-- [HackerRank Problems](https://github.com/kavysharma/hackerrank-problems)
+---
+
+## 📦 My Repositories
+
+- [![Leetcode Problems](https://img.shields.io/badge/Leetcode%20Problems-%23f44336?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/kavysharma/leetcode-problems)
+- [![GeeksforGeeks Problems](https://img.shields.io/badge/GeeksforGeeks%20Problems-%230d47a1?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://github.com/kavysharma/geeksforgeeks-problems)
+- [![Codeforces Problems](https://img.shields.io/badge/Codeforces%20Problems-%231f77b4?style=for-the-badge&logo=codeforces&logoColor=white)](https://github.com/kavysharma/codeforces-problems)
+- [![HackerRank Problems](https://img.shields.io/badge/HackerRank%20Problems-%233cc13f?style=for-the-badge&logo=hackerrank&logoColor=white)](https://github.com/kavysharma/hackerrank-problems)
 
 ---
 
