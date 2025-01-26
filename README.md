@@ -62,5 +62,3 @@
 © 2025 Kavy Sharma. All rights reserved.
 
 This README and its contents are the intellectual property of Kavy Sharma. Unauthorized copying, use, or redistribution of any part of this repository, in any form or by any means, is strictly prohibited without explicit permission from the owner.
-
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
