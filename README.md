@@ -9,7 +9,6 @@
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavy-sharma-a1315328b) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kavy2507) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/skavy359)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/skavy359)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2311B48E.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/skavy359)
