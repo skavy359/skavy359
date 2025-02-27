@@ -5,7 +5,7 @@
 </a>
 
 ### 💫 About Me:
-🔭 I’m currently working on my Portfolio Website and refining my personal projects to showcase my skills.<br>👯 I’m looking to collaborate on web development projects, especially those that challenge me to grow and push my skills further.<br>🤝 I’m looking for help with improving my full-stack development skills and working on large-scale open-source projects.<br>🌱 I’m currently learning more about backend architectures and refining my knowledge in databases and server management.<br>💬 Ask me about my favorite games, cricket strategies, or why I think the best way to spend a weekend is exploring new places!<br>⚡ Fun fact: I once tried gaming competitively... let’s just say my high scores didn’t impress anyone, except maybe my dog!<br>
+🔭 I’m currently working on my Portfolio Website and a e-commerce Website and refining my personal projects to showcase my skills.<br>👯 I’m looking to collaborate on web development projects, especially those that challenge me to grow and push my skills further.<br>🤝 I’m looking for help with improving my full-stack development skills and working on large-scale open-source projects.<br>🌱 I’m currently learning more about backend architectures and refining my knowledge in databases and server management.<br>💬 Ask me about my favorite games, cricket strategies, or why I think the best way to spend a weekend is exploring new places!<br>⚡ Fun fact: I once tried gaming competitively... let’s just say my high scores didn’t impress anyone, except maybe my dog!<br>
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavy-sharma-a1315328b) 
