@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l1dDBpbmFwNGl1eGEydGhyOGluMmF3cmlzYTViem55NDhteGh2byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vKhKsyEFVK4IuEKzWY/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/aN2qWQQliU4QOcq8Xt/giphy.gif" width="50" /">
   <font color="#e62429">"Who am I? You sure you want to know?"</font>
   <img src="https://media.giphy.com/media/aN2qWQQliU4QOcq8Xt/giphy.gif" width="50" />
 </h1>
@@ -23,5 +23,5 @@ But if you want something <span style="color:#e62429;">extraordinary</span>…
 <span style="color:#e62429;">"Are you watching closely?"</span>  
 
 — <span style="color:#e62429;">Kavy Sharma</span>  
-Backend Developer (<span style="color:#e62429;">Spring Boot</span>) | Android Developer (<span style="color:#e62429;">Kotlin</span>)
+Backend Developer | Android Developer
 </pre>
