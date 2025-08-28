@@ -1,7 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/aN2qWQQliU4QOcq8Xt/giphy.gif" width="50" /">
   <font color="#e62429">"Who am I? You sure you want to know?"</font>
-  <img src="https://media.giphy.com/media/aN2qWQQliU4QOcq8Xt/giphy.gif" width="50" />
 </h1>
 
 
