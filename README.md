@@ -18,8 +18,6 @@ But if you want something <span style="color:#e62429;">extraordinary</span>…
 <span style="color:#FFD700;">I will scale it.</span>  
 <span style="color:#FFD700;">And I will deliver it.</span>  
 
-<span style="color:#e62429;">"Are you watching closely?"</span>  
-
 — <span style="color:#e62429;">Kavy Sharma</span>  
-Backend Developer | Android Developer
+Backend Developer | Android Developer | Web Developer
 </pre>
