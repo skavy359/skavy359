@@ -1,22 +1,51 @@
-<h1 align="center">
-  <font color="#e62429">"Who am I? You sure you want to know?"</font>
-</h1>
+<p align="center">
+  <img src="https://github.com/skavy359/skavy359/raw/main/assets/header.gif" 
+       alt="Hi, I'm Kavy Sharma 👋 Web & Application Developer">
+</p>
 
-<pre style="font-size:16px; padding:16px; border:2px solid #e62429; border-radius:10px; background:#0d0d0d; color:#ffffff;">
-I don’t know who you are.  
-I don’t know what you seek.  
-But what I do have are a <span style="color:#e62429;">very particular set of skills</span>—  
-skills I’ve acquired over years of <span style="color:#FFD700;">building</span> and <span style="color:#FFD700;">problem-solving</span>.  
+<h1 align="center">Hi, I'm Kavy Sharma 👋</h1>
 
-Skills that let me <span style="color:#e62429;">design systems</span>, <span style="color:#e62429;">craft applications</span>,  
-and bring ideas to life with <span style="color:#FFD700;">precision</span>.  
+<h3 align="center">
+  Web Developer • Application Developer • Full-Stack Developer
+</h3>
 
-If you’re here for <span style="color:grey;">ordinary</span>, that’ll be the end of it.  
-But if you want something <span style="color:#e62429;">extraordinary</span>…  
-<span style="color:#FFD700;">I will create it.</span>  
-<span style="color:#FFD700;">I will scale it.</span>  
-<span style="color:#FFD700;">And I will deliver it.</span>  
+---
 
-— <span style="color:#e62429;">Kavy Sharma</span>  
-Backend Developer | Android Developer | Web Developer
-</pre>
+## 👨‍💻 About Me
+
+I'm a developer focused on building clean, scalable, and user-friendly web and application experiences.  
+I enjoy working across the stack and turning ideas into functional products.
+
+- 🌱 Currently learning and building projects
+- 🛠️ Interested in full-stack & app development
+- 🎯 Focused on writing clean, maintainable code
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/firebase.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+</p>
+
+---
+
+## 🔗 Links
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.icons8.com/color/64/linkedin.png"/>
+  </a>
+  <a href="https://github.com/<YOUR_USERNAME>">
+    <img src="https://img.icons8.com/material-outlined/64/github.png"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/color/64/gmail.png"/>
+  </a>
+</p>
