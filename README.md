@@ -13,7 +13,6 @@ I enjoy working across the stack and turning ideas into reliable, functional pro
 🎯 Focused on writing clean, maintainable code and improving performance & usability<br>
 🚀 Passionate about learning new tools, improving problem-solving skills, and building impactful software
 
----
 
 ## 🛠️ Tech Stack
 
@@ -44,30 +43,4 @@ I enjoy working across the stack and turning ideas into reliable, functional pro
 
 ---
 
-## 🔗 Links
-
-<p align="center">
-  <a href="mailto:skavy359@gmail.com">
-    <img src="https://img.icons8.com/color/64/gmail.png"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kavy-sharma-a1315328b/">
-    <img src="https://img.icons8.com/color/64/linkedin.png"/>
-  </a>
-  <a href="https://github.com/skavy359">
-    <img src="https://img.icons8.com/material-outlined/64/github.png"/>
-  </a>
-  <a href="https://leetcode.com/skavy359">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/64/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/skavy359">
-    <img src="https://img.icons8.com/color/64/GeeksforGeeks.png"/>
-  </a>
-  <a href="https://kavysharmaportfolio.vercel.app/">
-    <img src="https://img.icons8.com/color/64/domain.png"/>
-  </a>
-</p>
-
----
-
 <h2 align="center">⭐ Thanks for visiting my profile!</h2>
-<h4 align="center">I’m always open to learning, collaborating, and building meaningful software.</h4>
