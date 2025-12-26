@@ -40,7 +40,3 @@ I enjoy working across the stack and turning ideas into reliable, functional pro
     <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
     <img src="https://img.icons8.com/color/48/python.png"/>
 </p>
-
----
-
-<h2 align="center">⭐ Thanks for visiting my profile!</h2>
